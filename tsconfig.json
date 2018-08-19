@@ -13,7 +13,10 @@
                 "node_modules/*",
                 "src/types/*"
             ]
-        }
+        },
+        "lib": [
+            "es2015"
+        ]
     },
     "include": [
         "src/**/*"
